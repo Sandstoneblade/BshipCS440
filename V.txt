@@ -1,0 +1,44 @@
+Variations
+As battleship is a game that has been around for years, there are many variations of the game.  
+Below is a list of a few of the variations.
+
+1 shot per ship:
+Each player, rather than having one attack per round, instead has one attack per each ship that is afloat.
+
+Movement (many variations):
+Each player, on their turn and after (rule varies) number of turns prior to their last movement, 
+may move their ship(s) forward or backward a number of spaces. 
+ Movement may be restricted if a ship is damaged.
+Turning: Ships may be turned as a movement.
+
+Submarine rules:
+Variations in the rules apply for submarines.  Some rulesets restrict a submarine's vulnerabilities 
+with respect to being hit.  This is generally only applied to the 1 shot per ship ruleset.
+
+Ship naming:
+Each ship class might be named a different catagory of vessel.  
+Frigates may replace the submarine, for example.
+
+Battle re-creation:
+Rather than five ships per player, a battle can be modeled from historical data, 
+with each player representing a side, and each side given a number of ships to represent numbers disparity.
+
+More ships:
+Rather than just five ships, with four ship sizes, more can be used 
+(a length 6 ship, for example, with each side having 10 ships)
+A typical variation is to have the following number of ships and sizes:
+1 size 5
+1 size 4
+1 size 3
+2 size 2
+2 size 1 (this is typically referred to as 'submarine')
+
+Grid size change:
+Rather than a 10x10 grid, the grid may be larger or smaller.
+
+Ship announcement:
+Players may, or may not, announce which type of ship (ex: battleship, destroyer) has been struck.
+
+Successful attacks:
+Should a player successfully hit a ship, they may have another attack or several attacks.  
+Many variations exist.

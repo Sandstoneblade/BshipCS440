@@ -1,0 +1,19 @@
+What is battleship
+Battleship is a paper and pencil game, and believed to have originated during the first world war, or 1890.
+The game itself is a guessing game, set in a grid, usually 10 by 10.
+Each player has 2 grids.  One is their 'tracking' grid, and one is their primary grid 
+(where their own ships are positioned)
+
+Each player is given five ships (details below) and may lay their ships out anywhere they fit within the grid.
+
+The ships each player are given differ, each having a fixed width of one, but the length of each ship varies.
+Length 5 ships (1 given) are typically referred to as 'carriers' or 'aircraft carriers'
+Length 4 ships (1 given) are typically referred to as 'battleships'
+Length 3 ships (2 given) One ship is typically referred to as 'submarine',
+the other is subject to 2 variations, see below
+Length 2 ships (1 given) 2 variations, see below
+There are two common variations for the rest of the ship conventions
+Lenth three ships: cruiser or destroyer
+Length two ships: destroyer or patrol boat
+
+For how to play once the game is established, please press 'How to Play'

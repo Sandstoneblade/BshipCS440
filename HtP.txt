@@ -1,0 +1,10 @@
+How to play:
+Each player gets one attack, calling out a grid square (usually, the columns are numeric, 
+while the rows are alphabetical, for example: A 10).
+
+Should their oppenent inform them that they missed, they make a note in their tracking grid.  
+Likewise, should they hit a ship (traditionally, they are informed which vessel was struck) they make a note.
+
+Once their attack is finished, their opponent gets their turn.
+When a vessel is sunk, traditionally the player who had their ship sunk informs their foe ("you sunk my battleship").
+Play ends when one player has no more ships afloat.

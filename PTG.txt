@@ -1,0 +1,12 @@
+Playing this game
+Our game runs along this model:
+Traditional ship distrubtion (5)
+Destroyers are size 2
+Cruisers are size 3
+
+Attacking: just select a tile.
+If your opponent's ship has been hit, the game will ask a historical question.  
+You, as the player, must answer correctly for the hit to count.
+
+Should you successfully hit a ship, you will have another another turn.
+The game ends when no ships remain on one side.
